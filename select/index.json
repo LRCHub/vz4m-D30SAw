@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Dawn Blue",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2025-12-18T03:12:41.299209Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dawn Blue",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_Dawn_Blue_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dawn Blue",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/02_Dawn_Blue_Mori_Calliope.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dawn Blue",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_Dawn_Blue_Mori_Calliope.txt"
+    }
+  ]
+}
